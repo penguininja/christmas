@@ -8,7 +8,7 @@
 }
 
 body, html {
-  background-color: #ecdbba;
+  background-color: #f2e6d0;
   color: #113640;
   margin: 0;
   padding: 0;
@@ -33,6 +33,11 @@ li {
   list-style: none;
 }
 
+a,
+a:visited {
+  color: #587455;
+}
+
 h1, h2, h3 {
   font-family: "Mountains of Christmas", serif;
   font-weight: 700;
@@ -47,6 +52,13 @@ h2 {
   font-size: 1.5em;
 }
 
+button {
+  border: none;
+  padding: 0;
+  margin: 0;
+  background-color: inherit;
+}
+
 .container {
   display: flex;
   justify-content: center;
@@ -58,7 +70,11 @@ h2 {
 }
 
 .dark-mode {
-/*  background-color: lighten(#ecdbba, 10%);*/
   background-color: #113640;
-  color: white;;
+  color: white;
+}
+
+.dark-mode a,
+.dark-mode a:visited {
+  color: #c4ded7;
 }
