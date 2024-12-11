@@ -11,6 +11,10 @@
 // <uniquifier>: Use a unique and descriptive class name
 // <weight>: Use a value from 300 to 800
 
+body {
+  background-color: #113640;
+}
+
 body,html{
   margin: 0;
   padding: 0;
@@ -63,7 +67,7 @@ h3 {
   flex-shrink: 1;
 }
 
-.dark-mode {
-  background-color: black;
-  color: white;
+.light-mode {
+  background-color: lighten(#ecdbba, 10%);
+  color: #421808;
 }
