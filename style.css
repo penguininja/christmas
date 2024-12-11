@@ -3,6 +3,20 @@
   font-size: 18px;
 }
 
+body,html{
+  margin: 0;
+  padding: 0;
+}
+
+ul, ol {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  margin-bottom: 5px;
+}
+
 h1, h2 {
   font-family: "Mountains of Christmas", serif;
   font-weight: 400;
@@ -20,8 +34,5 @@ h3 {
 .container {
   display: flex;
   justify-content: center;
-}
-
-.content {
-  flex-basis: content;
+  column-gap: 10px;
 }
