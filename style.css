@@ -25,18 +25,22 @@ li {
   list-style: none;
 }
 
-h1, h2 {
+h1, h2, h3 {
   font-family: "Mountains of Christmas", serif;
   font-weight: 700;
   font-style: normal;
+}
+
+h2 {
   font-size: 1.8em;
 }
 
 h3 {
-  font-family: "Mountains of Christmas", serif;
-  font-weight: 700;
-  font-style: normal;
-  font-size: 1.5em;
+  font-size: 1.6em;
+}
+
+h3 {
+  font-size: 1.4em;
 }
 
 .container {
