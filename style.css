@@ -8,8 +8,8 @@
 }
 
 body, html {
-  background-color: #113640;
-  color: white;
+  background-color: #lighten(#ecdbba, 10%);;
+  color: #082040;
   margin: 0;
   padding: 0;
 }
@@ -57,8 +57,8 @@ h2 {
   flex-shrink: 1;
 }
 
-.light-mode {
+.dark-mode {
 /*  background-color: lighten(#ecdbba, 10%);*/
-  background-color: white;
-  color: #421808;
+  background-color: #082040;
+  color: lighten(#ecdbba, 10%);;
 }
