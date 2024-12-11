@@ -1,6 +1,10 @@
 * {
   box-sizing: border-box;
   font-size: 18px;
+
+  @media (min-width: 700px) {
+    font-size: 24px;
+  }
 }
 
 body,html{
@@ -17,18 +21,22 @@ ul {
   margin-bottom: 5px;
 }
 
+li {
+  list-style: none;
+}
+
 h1, h2 {
   font-family: "Mountains of Christmas", serif;
-  font-weight: 400;
+  font-weight: 700;
   font-style: normal;
-  font-size: 1.4em;
+  font-size: 1.8em;
 }
 
 h3 {
   font-family: "Mountains of Christmas", serif;
   font-weight: 700;
   font-style: normal;
-  font-size: 1.2em;
+  font-size: 1.5em;
 }
 
 .container {
