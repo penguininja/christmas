@@ -9,7 +9,7 @@
 
 body, html {
   background-color: #lighten(#ecdbba, 10%);;
-  color: #082040;
+  color: #113640;
   margin: 0;
   padding: 0;
 }
@@ -59,6 +59,6 @@ h2 {
 
 .dark-mode {
 /*  background-color: lighten(#ecdbba, 10%);*/
-  background-color: #082040;
-  color: lighten(#ecdbba, 10%);;
+  background-color: #113640;
+  color: white;;
 }
