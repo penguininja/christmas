@@ -19,6 +19,9 @@
         <li><a href="#rockin">Rockin' Around the Christmas Tree</a></li>
       </ul>
 
+      <h2>Dark/Light Mode</h2>
+      <button onclick="darkMode()">
+
       <h2>~ Songs ~</h2>
 
       <h3 class="song-title" id="rockin">Rockin' Around the Christmas Tree</h3>
@@ -47,3 +50,10 @@
     </div>
   </div>
 </body>
+
+<script>
+function darkMode() {
+   var element = document.body;
+   element.classList.toggle("dark-mode");
+}
+</script>

@@ -62,3 +62,8 @@ h3 {
 .content {
   flex-shrink: 1;
 }
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
