@@ -45,6 +45,7 @@ h1, h2, h3 {
   font-family: "Mountains of Christmas", serif;
   font-weight: 700;
   font-style: normal;
+  text-align: center;
 }
 
 h1 {
@@ -60,6 +61,10 @@ button {
   padding: 0;
   margin: 0;
   background-color: inherit;
+}
+
+button:hover {
+  cursor: pointer;
 }
 
 .container {
