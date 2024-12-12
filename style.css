@@ -79,6 +79,6 @@ button {
 
 .dark-mode a,
 .dark-mode a:visited,
-button {
+.dark-mode button {
   color: #faf5ec;
 }
