@@ -9,7 +9,7 @@
 
 body, html {
   background-color: #faf5ec;
-  color: #2e6365;
+  color: #003025;
   margin: 0;
   padding: 0;
 }
@@ -35,7 +35,7 @@ li {
 
 a,
 a:visited {
-  color: #587455;
+  color: #832831;
 }
 
 h1, h2, h3 {
@@ -70,11 +70,11 @@ button {
 }
 
 .dark-mode {
-  background-color: #113640;
+  background-color: #003025;
   color: white;
 }
 
 .dark-mode a,
 .dark-mode a:visited {
-  color: #c4ded7;
+  color: #faf5ec;
 }
