@@ -31,6 +31,7 @@ ul {
 
 li {
   list-style-type: "\1F384";
+  margin-left: 1em;
 }
 
 a,
