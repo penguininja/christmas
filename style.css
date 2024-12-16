@@ -31,6 +31,7 @@ ul {
 
 li {
   list-style-type: "\1F384";
+  margin-bottom: 1em;
   margin-left: 1em;
   padding-left: 0.25em;
 }
@@ -45,6 +46,7 @@ h1, h2, h3 {
   font-family: "Mountains of Christmas", serif;
   font-weight: 700;
   font-style: normal;
+  word-wrap: break-word;
 }
 
 h1 {
