@@ -32,9 +32,13 @@ ul {
 
 li {
   list-style-type: "\1F384";
-  margin-bottom: 0.25em;
+  margin-bottom: 0.75em;
   margin-left: 1em;
   padding-left: 0.25em;
+
+  @media (min-width: 700px) {
+    margin-bottom: 0.25em;
+  }  
 }
 
 a,
