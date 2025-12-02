@@ -1,0 +1,20 @@
+# Site settings
+title: Christmas Singalong!
+description: Christmas Lyrics, github pages site
+
+# Build settings
+markdown: kramdown
+kramdown:
+  hard_wrap: true
+permalink: pretty
+
+# Collections
+collections:
+  songs:
+    output: true
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
