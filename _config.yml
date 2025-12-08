@@ -6,6 +6,7 @@ description: Christmas Lyrics, github pages site
 markdown: kramdown
 kramdown:
   hard_wrap: true
+  auto_ids: false
 permalink: pretty
 
 # Collections

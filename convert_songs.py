@@ -44,7 +44,7 @@ def convert_html_to_markdown(html_content):
 
         for section_title, lyrics in parts:
             # Add section header
-            md_content += f'## {section_title}\n'
+            md_content += f'### {section_title}\n'
 
             # Convert <br/> to line breaks and clean up
             lyrics = re.sub(r'<br\s*/?>\s*', '\n', lyrics)
