@@ -1,5 +1,6 @@
 ---
 title: "Dancing with the Elves"
+category: "crooner"
 ---
 
 ### Verse 1

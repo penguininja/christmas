@@ -1,5 +1,6 @@
 ---
 title: "The Gingerbread Rebellion"
+category: "crooner"
 ---
 
 ### Verse 1

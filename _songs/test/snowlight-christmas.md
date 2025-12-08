@@ -1,5 +1,6 @@
 ---
 title: "Snowlight Christmas"
+category: "crooner"
 ---
 
 ### Verse 1
