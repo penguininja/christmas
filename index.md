@@ -18,14 +18,12 @@ layout: default
 </header>
 
 <main>
-  <div class="main-content">
-    {% for song in sorted_songs %}
-    <article class="song">
-      <h2 class="song-title" id="{{ song.title | slugify }}">{{ song.title }}</h2>
-      {{ song.content }}
-      <p><a href="#">Back to Top ^</a></p>
-      <hr>
-    </article>
-    {% endfor %}
-  </div>
+  {% for song in sorted_songs %}
+  <article class="song">
+    <h2 class="song-title" id="{{ song.title | slugify }}">{{ song.title }}</h2>
+    {{ song.content }}
+    <p><a href="#">Back to Top ^</a></p>
+    <hr>
+  </article>
+  {% endfor %}
 </main>
