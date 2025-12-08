@@ -10,7 +10,8 @@ permalink: /categories/
 </header>
 
 <main>
-  {% assign songs_by_category = site.songs | where_exp: "item", "item.category" | group_by: "category" | sort: "name" %}
+  {% assign categorized_songs = site.songs | where_exp: "item", "item.category != nil" | where_exp: "item", "item.category != ''" %}
+  {% assign songs_by_category = categorized_songs | group_by: "category" | sort: "name" %}
 
   {% for category in songs_by_category %}
   <section>
@@ -18,20 +19,20 @@ permalink: /categories/
     <ul>
       {% assign category_songs = category.items | sort: "title" %}
       {% for song in category_songs %}
-        <li><a href="/#{{ song.title | slugify }}">{{ song.title }}</a></li>
+        <li><a href="/#{{ song.title | downcase | replace: ' ', '-' | replace: "'", '' }}">{{ song.title }}</a></li>
       {% endfor %}
     </ul>
   </section>
   {% endfor %}
 
-  {% assign uncategorized = site.songs | where_exp: "item", "item.category == nil or item.category == ''" %}
+  {% assign uncategorized = site.songs | where_exp: "item", "item.category == nil" %}
   {% if uncategorized.size > 0 %}
   <section>
     <h2>Uncategorized</h2>
     <ul>
       {% assign sorted_uncategorized = uncategorized | sort: "title" %}
       {% for song in sorted_uncategorized %}
-        <li><a href="/#{{ song.title | slugify }}">{{ song.title }}</a></li>
+        <li><a href="/#{{ song.title | downcase | replace: ' ', '-' | replace: "'", '' }}">{{ song.title }}</a></li>
       {% endfor %}
     </ul>
   </section>
