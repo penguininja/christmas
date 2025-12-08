@@ -1,7 +1,7 @@
 * {
   box-sizing: border-box;
   font-size: 17px;
-  word-wrap: break-word;  
+  word-wrap: break-word;
 
   @media (min-width: 700px) {
     font-size: 25px;
@@ -38,7 +38,7 @@ li {
 
   @media (min-width: 700px) {
     margin-bottom: 0.25em;
-  }  
+  }
 }
 
 a,
@@ -73,7 +73,7 @@ button:hover {
   cursor: pointer;
 }
 
-.container {
+.main {
   display: flex;
   justify-content: center;
   padding: 7px;
