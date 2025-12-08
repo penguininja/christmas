@@ -6,29 +6,31 @@ title: "Let It Snow"
 Oh, the weather outside is frightful
 But the fire is so delightful
 And since we've no place to go
-Let it snow, let it snow, let it snow
+Let it snow, let it snow, let it snow!
 
-### Bridge
-When we finally kiss goodnight
-How you'll hate going out in the storm
+It doesn't show signs of stopping
+And I've bought some corn for popping
+The lights are turned way down low
+Let it snow, let it snow, let it snow!
+
+### Chorus
+When we finally kiss goodnight,
+How I'll hate going out in the storm
 But if you really hold me tight
-All the way home you'll be warm
+All the way home I'll be warm!
 
-### Verse 3
 The fire is slowly dying
 And, dear, we're still goodbying
 But as long as you love me so
 Let it snow, let it snow, let it snow
 
-### Bridge
-When we finally kiss goodnight
-How you'll hate going out in the storm
+### Chorus
+When we finally kiss goodnight,
+How I'll hate going out in the storm
 But if you really hold me tight
-All the way home you'll be warm
+All the way home I'll be warm!
 
-### Verse 3
 The fire is slowly dying
 And, dear, we're still goodbying
 But as long as you love me so
 Let it snow, let it snow, let it snow
-

@@ -11,7 +11,7 @@ And a happy New Year!
 ### Chorus
 Good tidings we bring
 To you and your kin;
-We wish you a merry Christmas
+Good tidings for Christmas
 And a happy New Year!
 
 ### Verse 2
@@ -23,7 +23,7 @@ And bring it right here!
 ### Chorus
 Good tidings we bring
 To you and your kin;
-We wish you a merry Christmas
+Good tidings for Christmas
 And a happy New Year!
 
 ### Verse 4
@@ -35,6 +35,5 @@ So bring some out here!
 ### Chorus
 Good tidings we bring
 To you and your kin;
-We wish you a merry Christmas
+Good tidings for Christmas
 And a happy New Year!
-

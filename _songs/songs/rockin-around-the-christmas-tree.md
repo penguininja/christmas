@@ -14,10 +14,10 @@ Let the Christmas spirit ring
 Later we'll have some pumpkin pie
 And we'll do some caroling
 
-### Chorus
+### Bridge
 You will get a sentimental feeling when you hear
 Voices singing, let's be jolly
-Deck the halls with boughs of holly
+Deck the halls with boughs of holly!
 
 ### Verse 3
 Rockin' around the Christmas tree
@@ -25,8 +25,13 @@ Have a happy holiday
 Everyone dancin' merrily
 In the new old-fashioned way
 
-### Chorus
+### Bridge
 You will get a sentimental feeling when you hear
 Voices singing, let's be jolly
-Deck the halls with boughs of holly
+Deck the halls with boughs of holly!
 
+### Verse 4
+Rockin' around the Christmas tree
+Have a happy holiday
+Everyone dancin' merrily
+In the new, old, fashioned way!

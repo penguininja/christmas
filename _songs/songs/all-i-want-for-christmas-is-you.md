@@ -7,7 +7,7 @@ I don't want a lot for Christmas
 There is just one thing I need
 I don't care about the presents
 Underneath the Christmas tree
-<p>I don't need to hang my stocking
+I don't need to hang my stocking
 There upon the fireplace
 Santa Claus won't make me happy
 With a toy on Christmas day
@@ -24,7 +24,7 @@ I won't ask for much this Christmas
 I won't even wish for snow.
 And I'm just gonna keep on waiting
 Underneath the mistletoe
-<p>I won't make a list and send it
+I won't make a list and send it
 To the North Pole for St. Nick.
 I won't even stay awake
 To hear those magic reindeer click.
@@ -54,7 +54,7 @@ I just wanna see my baby
 Standing right outside my door
 
 ### Chorus
-Oh, I just want you for my own
+I just want you for my own
 More than you could ever know
 Make my wish come true
 Oh baby, all I want for Christmas is you
@@ -64,4 +64,3 @@ You, baby
 All I want for Christmas is you, baby
 All I want for Christmas is you, baby
 All I want for Christmas is you, baby
-

@@ -13,6 +13,10 @@ Rudolph the Red-Nosed Reindeer
 Had a very shiny nose
 And if you ever saw it
 You would even say it glows
+All of the other reindeer
+Used to laugh and call him names
+They never let poor Rudolph
+Join in any reindeer games
 
 ### Bridge
 Then one foggy Christmas Eve
@@ -24,6 +28,5 @@ Won't you guide my sleigh tonight?"
 Then how the reindeer loved him
 As they shouted out with glee
 "Rudolph the Red-Nosed Reindeer
-You'll go down in history"
-You'll go down in history"
-
+You'll go down in history.
+You'll go down in history!"
