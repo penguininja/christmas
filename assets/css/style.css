@@ -1,3 +1,10 @@
+/* variables */
+:root {
+  --dark-green: #003025;
+  --white: #faf5ec;
+  --dark-red: #832831;
+}
+
 * {
   box-sizing: border-box;
   font-size: 17px;
@@ -9,8 +16,8 @@
 }
 
 body, html {
-  background-color: #faf5ec;
-  color: #003025;
+  background-color:var(--white);
+  color: var(--dark-green);
   margin: 0;
   padding: 0;
 }
@@ -42,9 +49,8 @@ li {
 }
 
 a,
-a:visited,
-button {
-  color: #832831;
+a:visited {
+  color: var(--dark-red);
 }
 
 h1, h2, h3 {
@@ -62,10 +68,13 @@ h2 {
 }
 
 button {
+  appearance: none;
   border: none;
-  padding: 0;
+  border-radius: 10px;
+  color: var(--white);
+  padding: 10px;
   margin: 0 0 0 -1px;
-  background-color: inherit;
+  background-color: var(--dark-green);
   font-weight: 400;
 }
 
@@ -84,12 +93,16 @@ body {
 }
 
 .dark-mode {
-  background-color: #003025;
-  color: white;
+  background-color: var(--dark-green);
+  color: var(--white);
 }
 
 .dark-mode a,
-.dark-mode a:visited,
+.dark-mode a:visited {
+  color: var(--white);
+}
+
 .dark-mode button {
-  color: #faf5ec;
+  background-color: var(--white);
+  color: var(--dark-green);
 }
