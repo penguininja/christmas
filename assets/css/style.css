@@ -73,7 +73,7 @@ button:hover {
   cursor: pointer;
 }
 
-.main {
+main {
   display: flex;
   justify-content: center;
   padding: 7px;
