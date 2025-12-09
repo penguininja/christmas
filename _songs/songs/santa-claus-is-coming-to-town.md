@@ -1,5 +1,6 @@
 ---
 title: "Santa Claus Is Coming to Town"
+category: "Kids' Favorites"
 ---
 
 ### Chorus

@@ -1,5 +1,6 @@
 ---
 title: "Rudolph the Red-Nosed Reindeer"
+category: "Kids' Favorites"
 ---
 
 ### Intro

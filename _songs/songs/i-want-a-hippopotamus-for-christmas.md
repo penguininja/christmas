@@ -1,5 +1,6 @@
 ---
 title: "I Want a Hippopotamus for Christmas"
+category: "Kids' Favorites"
 ---
 
 ### Verse 1

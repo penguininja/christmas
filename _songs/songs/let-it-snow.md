@@ -1,5 +1,6 @@
 ---
 title: "Let It Snow"
+category: "Classics"
 ---
 
 ### Verse 1

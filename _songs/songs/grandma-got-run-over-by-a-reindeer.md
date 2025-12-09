@@ -1,5 +1,6 @@
 ---
 title: "Grandma Got Run Over by a Reindeer"
+category: "Classics"
 ---
 
 ### Chorus

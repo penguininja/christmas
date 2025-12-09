@@ -1,5 +1,6 @@
 ---
 title: "All I Want for Christmas Is You"
+category: "Rock & Pop"
 ---
 
 ### Intro

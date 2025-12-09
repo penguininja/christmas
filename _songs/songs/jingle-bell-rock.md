@@ -1,5 +1,6 @@
 ---
 title: "Jingle Bell Rock"
+category: "Rock & Pop"
 ---
 
 ### Verse 1

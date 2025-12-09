@@ -1,5 +1,6 @@
 ---
 title: "Santa Baby"
+category: "Classics"
 ---
 
 ### Verse 1

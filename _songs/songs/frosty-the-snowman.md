@@ -1,5 +1,6 @@
 ---
 title: "Frosty the Snowman"
+category: "Kids' Favorites"
 ---
 
 ### Verse 1

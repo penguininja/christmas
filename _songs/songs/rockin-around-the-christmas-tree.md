@@ -1,5 +1,6 @@
 ---
 title: "Rockin' Around the Christmas Tree"
+category: "Rock & Pop"
 ---
 
 ### Verse 1

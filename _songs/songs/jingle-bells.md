@@ -1,5 +1,6 @@
 ---
 title: "Jingle Bells"
+category: "Traditional"
 ---
 
 ### Verse 1
