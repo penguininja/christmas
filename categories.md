@@ -19,7 +19,7 @@ permalink: /categories/
     <ul>
       {% assign category_songs = category.items | sort: "title" %}
       {% for song in category_songs %}
-        <li><a href="/#{{ song.title | slugify }}">{{ song.title }}</a></li>
+        <li><a href="{{ "/" | relative_url }}#{{ song.title | slugify }}">{{ song.title }}</a></li>
       {% endfor %}
     </ul>
   </section>
