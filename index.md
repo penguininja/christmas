@@ -3,9 +3,10 @@ layout: default
 ---
 
 <header>
-  <h1 id="top">~ Christmas Singalong! ~</h1>
+  <h1 id="top">Christmas Singalong!</h1>
 
   <div class="tabs">
+    <button onclick="darkMode()">&#x1F4A1;</button>
     <button class="tab-button active" onclick="showTab('alphabetical')">Alphabetical</button>
     <button class="tab-button" onclick="showTab('category')">By Category</button>
   </div>
@@ -49,7 +50,6 @@ layout: default
     {% endif %}
   </nav>
 
-  <p><button onclick="darkMode()">&#x1F4A1; Dark/Light Mode</button></p>
 </header>
 
 <main>
