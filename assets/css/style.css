@@ -38,7 +38,7 @@ ul, ol {
 }
 
 ul {
-  margin-bottom: 5px;
+  margin-bottom: 1.5em;
 }
 
 li {
@@ -75,7 +75,7 @@ article {
 h2 {
   font-size: 1.5em;
   margin-bottom: 0.25em;
-  margin-top: 1em;
+  margin-top: 0.5em;
 }
 
 h2 + h3 {
