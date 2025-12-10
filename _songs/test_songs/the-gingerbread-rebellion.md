@@ -1,6 +1,6 @@
 ---
 title: "The Gingerbread Rebellion"
-category: "crooner"
+category: "Kids' Favorites"
 ---
 
 ### Verse 1

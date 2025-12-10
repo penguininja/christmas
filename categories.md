@@ -14,6 +14,7 @@ permalink: /categories/
   {% assign songs_by_category = categorized_songs | group_by: "category" | sort: "name" %}
 
   {% for category in songs_by_category %}
+  <hr>
   <section>
     <h2>{{ category.name | capitalize }}</h2>
     <ul>
