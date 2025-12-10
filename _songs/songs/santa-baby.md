@@ -1,6 +1,6 @@
 ---
 title: "Santa Baby"
-category: "Classics"
+category: "Crooners"
 ---
 
 ### Verse 1
