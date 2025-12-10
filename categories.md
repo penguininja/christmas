@@ -6,7 +6,7 @@ permalink: /categories/
 
 <header>
   <h1>Song Categories</h1>
-  <p><a href="/">← Back to All Songs</a></p>
+  <p><a href="{{ "/" | relative_url }}">← Back to All Songs</a></p>
 </header>
 
 <main>
