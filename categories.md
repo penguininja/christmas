@@ -6,7 +6,7 @@ permalink: /categories/
 
 <header>
   <h1>Song Categories</h1>
-  <p><a href="/">← Back to All Songs</a></p>
+  <p><a href="{{ "/" | relative_url }}">← Back to All Songs</a></p>
 </header>
 
 <main>
@@ -19,7 +19,7 @@ permalink: /categories/
     <ul>
       {% assign category_songs = category.items | sort: "title" %}
       {% for song in category_songs %}
-        <li><a href="/#{{ song.title | downcase | replace: ' ', '-' | replace: "'", '' }}">{{ song.title }}</a></li>
+        <li><a href="/#{{ song.title | slugify }}">{{ song.title }}</a></li>
       {% endfor %}
     </ul>
   </section>
@@ -32,7 +32,7 @@ permalink: /categories/
     <ul>
       {% assign sorted_uncategorized = uncategorized | sort: "title" %}
       {% for song in sorted_uncategorized %}
-        <li><a href="/#{{ song.title | downcase | replace: ' ', '-' | replace: "'", '' }}">{{ song.title }}</a></li>
+        <li><a href="/#{{ song.title | slugify }}">{{ song.title }}</a></li>
       {% endfor %}
     </ul>
   </section>
