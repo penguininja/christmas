@@ -1,6 +1,6 @@
 ---
 title: "O Holy Night"
-category: "Crooners"
+category: "Traditional"
 ---
 
 ### Verse 1
