@@ -1,6 +1,6 @@
 ---
 title: "Let It Snow! Let It Snow! Let It Snow!"
-category: "Crooners"
+category: "Classics"
 ---
 
 ### Verse 1
