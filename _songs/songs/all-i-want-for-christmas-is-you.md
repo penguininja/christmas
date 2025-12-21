@@ -8,6 +8,7 @@ I don't want a lot for Christmas
 There is just one thing I need
 I don't care about the presents
 Underneath the Christmas tree
+
 I don't need to hang my stocking
 There upon the fireplace
 Santa Claus won't make me happy
@@ -25,6 +26,7 @@ I won't ask for much this Christmas
 I won't even wish for snow.
 And I'm just gonna keep on waiting
 Underneath the mistletoe
+
 I won't make a list and send it
 To the North Pole for St. Nick.
 I won't even stay awake
@@ -42,6 +44,7 @@ Oh, all the lights are shining
 So brightly everywhere
 And the sound of children's
 Laughter fills the air
+
 And everyone is singing
 I hear those sleigh bells ringing
 Santa, won't you bring me
