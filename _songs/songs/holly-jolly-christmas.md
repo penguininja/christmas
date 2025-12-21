@@ -1,0 +1,28 @@
+---
+title: "Holly Jolly Christmas"
+category: "Traditional"
+---
+
+### Verse 1
+Have a holly, jolly Christmas
+It's the best time of the year.
+I don't know if there'll be snow
+But have a cup of cheer.
+
+### Verse 2
+Have a holly, jolly Christmas
+And when you walk down the street
+Say hello to friends you know
+And everyone you meet.
+
+### Bridge
+Oh, ho, the mistletoe
+Hung where you can see
+Somebody waits for you
+Kiss her once for me.
+
+### Outro
+Have a holly, jolly Christmas
+And in case you didn't hear
+Oh by golly have a holly jolly Christmas
+This year!
