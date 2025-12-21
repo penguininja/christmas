@@ -1,6 +1,6 @@
 ---
 title: "It's Beginning to Look a Lot Like Christmas"
-category: "Crooners"
+category: "Classics"
 ---
 
 ### Verse 1
