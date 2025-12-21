@@ -1,6 +1,6 @@
 ---
 title: "Holly Jolly Christmas"
-category: "Classics"
+category: "Traditional"
 ---
 
 ### Verse 1
