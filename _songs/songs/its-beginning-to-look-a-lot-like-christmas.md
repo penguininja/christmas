@@ -8,6 +8,7 @@ It's beginning to look a lot like Christmas
 Everywhere you go
 Take a look at the five and ten, glistening once again
 With candy canes and silver lanes a-glow
+
 It's beginning to look a lot like Christmas
 Toys in every store
 But the prettiest sight to see is the holly that will be
@@ -25,6 +26,7 @@ It's beginning to look a lot like Christmas
 Everywhere you go
 There's a tree in the grand hotel, one in the park as well
 The sturdy kind that doesn't mind the snow
+
 It's beginning to look a lot like Christmas
 Soon the bells will start
 And the thing that will make them ring

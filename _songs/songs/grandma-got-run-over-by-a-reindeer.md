@@ -14,6 +14,7 @@ She'd been drinkin' too much egg nog,
 And we'd begged her not to go.
 But she forgot her medication,
 As she stumbled out the door into the snow.
+
 When they found her Christmas morning,
 At the scene of the attack
 There were hoof-prints on her forehead,
@@ -30,6 +31,7 @@ Now we're all so proud of Grandpa,
 He's been taking this so well.
 See him in there watching football,
 Drinking beer and playing cards with cousin Belle.
+
 It's not Christmas without Grandma.
 All the family's dressed in black.
 And we just can't help but wonder
@@ -46,6 +48,7 @@ Now the goose is on the table
 And the pudding made of fig
 And a blue and silver candle,
 That would just have matched the hair in Grandma's wig.
+
 I've warned all my friends and neighbors.
 "Better watch out for yourselves."
 They should never give a license,

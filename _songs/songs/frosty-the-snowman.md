@@ -7,6 +7,7 @@ category: "Kids' Favorites"
 Frosty the snowman was a jolly happy soul
 With a corncob pipe and a button nose
 And two eyes made out of coal
+
 Frosty the snowman is a fairy tale, they say
 He was made of snow but the children know
 How he came to life one day
@@ -28,6 +29,7 @@ Ooh Frosty the snowman
 Knew the sun was hot that day
 So he said, "Let's run and we'll have some fun
 Now before I melt away."
+
 Down to the village
 With a broomstick in his hand
 Running here and there all around the square
