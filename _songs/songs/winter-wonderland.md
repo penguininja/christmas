@@ -1,6 +1,6 @@
 ---
 title: "Winter Wonderland"
-category: "Traditional"
+category: "Classics"
 ---
 
 ### Verse 1

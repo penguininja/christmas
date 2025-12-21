@@ -1,6 +1,6 @@
 ---
 title: "Here Comes Santa Claus"
-category: "Traditional"
+category: "Classics"
 ---
 
 ### Verse 1

@@ -1,6 +1,6 @@
 ---
 title: "Deck the Halls"
-category: "Traditional"
+category: "Classics"
 ---
 
 ### Verse 1

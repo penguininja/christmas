@@ -1,6 +1,6 @@
 ---
 title: "We Wish You a Merry Christmas"
-category: "Traditional"
+category: "Classics"
 ---
 
 ### Verse 1
